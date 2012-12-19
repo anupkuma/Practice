@@ -11,6 +11,8 @@ public class SingleLinkList {
 		one.setNextNode(12);
 		one.setNextNode(2);
 		one.setNextNode(7);
+		
+		one.deleteNode(12 , one);
 
 	}
 }
