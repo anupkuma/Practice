@@ -1,4 +1,5 @@
 package com.shahi.dec;
+// Implement an algorithm to delete a node in the middle of a singly Linked list, given only access to that node.
 
 public class DeleteMiddleNode {
 	public void deleteNode(Node n) {
